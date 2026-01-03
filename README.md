@@ -1,5 +1,7 @@
 # Open access books in AI, computing, applied math and related areas
 
+⚠️ No side effects have been reported from giving our repositories a ⭐️
+
 ### A
 
 [A Business Analyst’s Introduction to Business Analytics](https://www.causact.com/)
