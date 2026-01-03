@@ -1,5 +1,3 @@
-# Books on AI, Math and applied sciences
-
 # Open access books in AI, computing, applied math and related areas
 
 ### A
