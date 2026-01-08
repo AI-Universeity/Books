@@ -1,6 +1,4 @@
-# Open access books in AI, computing, applied math and related areas
-
-⚠️ No side effects have been reported from giving our repositories a ⭐️
+# Open access books in AI, computing, applied math and related areas ⭐️
 
 ### A
 
