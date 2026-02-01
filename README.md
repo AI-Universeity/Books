@@ -181,6 +181,7 @@
 
 ### F
 
+[Federated Learning: From Theory to Practice](https://arxiv.org/abs/2505.19183)
 
 [Feedback Systems: An Introduction for Scientists and Engineers](http://www.cds.caltech.edu/~murray/books/AM08/pdf/fbs-public_24Jul2020.pdf) 
 
