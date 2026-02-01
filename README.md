@@ -539,6 +539,8 @@ https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_P
 
 [Stochastic Differential Equations: An Introduction with Applications in Population Dynamics Modeling](https://users.aalto.fi/~asolin/sde-book/sde-book.pdf) 
 
+[Supercomputing for Artificial Intelligence](https://jorditorresbcn.github.io/supercomputing-for-ai-book/)
+
 [Supervised Machine Learning for Science](https://ml-science-book.com/)
 
 [Symmetries of Living Systems](https://arxiv.org/pdf/2502.18713)
