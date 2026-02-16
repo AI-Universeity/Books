@@ -244,6 +244,7 @@
 
 [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)                       
 
+[Infinite-Dimensional Lie Groups](https://arxiv.org/abs/2602.12362)
 
 [Information Theory: From Coding to Learning](https://people.lids.mit.edu/yp/homepage/data/itbook-export.pdf)
 
